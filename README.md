@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <h1 align="center">Hi 👋, I'm Bhavesh</h1>
-<h3 align="center">I am a Android Developer, Full-Stack enthusiast, and Python ninja.</h3>
+<h3 align="center">I am a Cyber Security Enthusiast and a Python ninja.</h3>
 </br>
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2> <br><br>
   <i>Random dev joke for you!</i><br>
